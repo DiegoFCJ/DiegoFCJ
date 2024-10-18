@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 👨‍💻 I'm currently working on:<br>
 - Developing full-stack applications using Angular, Spring Boot, and containerization with Docker.<br>
