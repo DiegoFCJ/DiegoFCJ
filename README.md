@@ -1,28 +1,28 @@
 ## Hi there 👋
 
 # 💫 About Me:
-👨‍💻 I'm currently working on:
-<br>- Developing full-stack applications using Angular, Spring Boot, and containerization with Docker.
+👨‍💻 I'm currently working on:<br>
+- Developing full-stack applications using Angular, Spring Boot, and containerization with Docker.<br>
 
-<br>🤝 I'm looking to collaborate on:
-<br>- Open-source projects related to web development, either front-end or back-end frameworks.
-<br>- Innovative solutions involving AI or machine learning.
+🤝 I'm looking to collaborate on:<br>
+- Open-source projects related to web development, either front-end or back-end frameworks.<br>
+- Innovative solutions involving AI or machine learning.<br>
 
-<br>📫 How to reach me:
-<br>- You can reach me via my social accounts or by sending an email to: diegoeffe96@gmail.com.
+📫 How to reach me:<br>
+- You can reach me via my social accounts or by sending an email to: diegoeffe96@gmail.com.<br>
 
-<br>🙌 I'm looking for:
-<br>- Help with DevOps practices and learning more about AI.
+🙌 I'm looking for:<br>
+- Help with DevOps practices and learning more about AI.<br>
 
-<br>🌱 I'm currently learning:
-<br>- Advanced TypeScript techniques and patterns.
-<br>- Best practices for microservices architecture.
+🌱 I'm currently learning:<br>
+- Advanced TypeScript techniques and patterns.<br>
+- Best practices for microservices architecture.<br>
 
-<br>💬 Ask me about:
-<br>- Full-stack development, API design, or JavaScript.
+💬 Ask me about:<br>
+- Full-stack development, API design, or JavaScript.<br>
 
-<br>⚡ Fun fact:
-<br>- I'm a big fan of board games like Monopoly, where strategy and long-term planning are key, just like in software development!
+⚡ Fun fact:<br>
+- I'm a big fan of board games like Monopoly, where strategy and long-term planning are key, just like in software development!<br>
 
 
 ## 🌐 Socials:
