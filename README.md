@@ -104,7 +104,25 @@
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
+## 🚀 Projects
 
+### [MicroGames](https://github.com/DiegoFCJ/MicroGames)
+A collection of simple games built using various technologies. 
+
+**Key Features:**
+- Multiple mini-games designed to challenge players.
+- Interactive UI with responsive design.
+- Easy to extend with new games and features.
+
+### [self](https://github.com/DiegoFCJ/self)
+This project focuses on personal use tools, providing a platform for users to track their goals and progress. It emphasizes self-improvement and productivity through a clean and intuitive interface which aims to give to the user a solid base where he can add bots and tools as plugins.
+
+**Key Features:**
+- Goal tracking and progress visualization.
+- User-friendly dashboard for managing tasks.
+- Built with modern web technologies for optimal performance.
+
+---
 # 📊 GitHub Stats:
 | ![](https://github-readme-stats.vercel.app/api?username=DiegoFCJ&theme=aura&hide_border=false&include_all_commits=true&count_private=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=DiegoFCJ&theme=aura&hide_border=false) |
 |---|---|
