@@ -122,6 +122,9 @@ This project focuses on personal use tools, providing a platform for users to tr
 - User-friendly dashboard for managing tasks.
 - Built with modern web technologies for optimal performance.
 
+### [E-commerce](https://github.com/DiegoFCJ/E-commerce/tree/main)
+An e-commerce platform that showcases various products and allows users to explore and manage their purchases.
+
 ---
 # 📊 GitHub Stats:
 | ![](https://github-readme-stats.vercel.app/api?username=DiegoFCJ&theme=aura&hide_border=false&include_all_commits=true&count_private=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=DiegoFCJ&theme=aura&hide_border=false) |
