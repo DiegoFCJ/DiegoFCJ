@@ -31,6 +31,7 @@
 
 # 💻 Tech Stack:
 
+---
 ### Languages & Frameworks
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -42,6 +43,7 @@
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
+---
 ### Front-end
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
@@ -54,6 +56,7 @@
 ![Angular Material](https://img.shields.io/badge/Angular%20Material-%23E23237.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Angular Bootstrap](https://img.shields.io/badge/Angular%20Bootstrap-%23E00000.svg?style=for-the-badge&logo=angular&logoColor=white)
 
+---
 ### Back-end
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -64,27 +67,32 @@
 ![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![JSP](https://img.shields.io/badge/JSP-%23F7DF1E.svg?style=for-the-badge&logo=java&logoColor=white)
 
+---
 ### Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![OracleDB](https://img.shields.io/badge/OracleDB-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 
+---
 ### Tools & Platforms
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![OpenShift](https://img.shields.io/badge/OpenShift-EE0000.svg?style=for-the-badge&logo=redhatopenshift&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
+---
 ### Versioning
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 
+---
 ### Project Management & Collaboration
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
+---
 ### Other Tools
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
@@ -98,15 +106,15 @@
 
 
 # 📊 GitHub Stats:
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiegoFCJ&theme=dark&hide_border=false&include_all_commits=true&count_private=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DiegoFCJ&theme=dark&hide_border=false) |
+| ![](https://github-readme-stats.vercel.app/api?username=DiegoFCJ&theme=aura&hide_border=false&include_all_commits=true&count_private=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=DiegoFCJ&theme=aura&hide_border=false) |
 |---|---|
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoFCJ&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) | |
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoFCJ&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact) | [![](https://visitcount.itsvg.in/api?id=DiegoFCJ&icon=0&color=0)](https://visitcount.itsvg.in) |
 
-
+---
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DiegoFCJ&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-
+---
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -114,5 +122,6 @@
 [![](https://visitcount.itsvg.in/api?id=DiegoFCJ&icon=5&color=0)](https://visitcount.itsvg.in)
 
 
+---
 ## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/DFois867) 
