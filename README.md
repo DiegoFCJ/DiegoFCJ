@@ -104,7 +104,7 @@
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
-## 🚀 Projects
+## 🚀 Personal Projects
 
 ### [MicroGames](https://github.com/DiegoFCJ/MicroGames)
 A collection of simple games built using various technologies. 
