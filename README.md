@@ -31,7 +31,6 @@
 
 # 💻 Tech Stack:
 
----
 ### Languages & Frameworks
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -110,11 +109,11 @@
 [![self](https://github-readme-stats.vercel.app/api/pin/?username=diegofcj&repo=self)](https://github.com/DiegoFCJ/self)
 [![ROW-AND-ORDER-FP-TNV](https://github-readme-stats.vercel.app/api/pin/?username=diegofcj&repo=ROW-AND-ORDER-FP-TNV)](https://github.com/DiegoFCJ/ROW-AND-ORDER-FP-TNV)
 
----
+
 # 📊 GitHub Stats:
-| ![](https://github-readme-stats.vercel.app/api?username=DiegoFCJ&show_icons=true&theme=aura&count_private=true&include_all_commits=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=DiegoFCJ&theme=aura&hide_border=false) |
-|---|---|
-| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoFCJ&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
+![](https://github-readme-streak-stats.herokuapp.com/?user=DiegoFCJ&theme=aura&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=DiegoFCJ&show_icons=true&theme=aura&count_private=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegofcj&&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ## 🏆 GitHub Trophies
