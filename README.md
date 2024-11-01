@@ -105,25 +105,10 @@
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
 ## 🚀 Personal Projects
-
-### [MicroGames](https://github.com/DiegoFCJ/MicroGames)
-A collection of simple games built using various technologies. 
-
-**Key Features:**
-- Multiple mini-games designed to challenge players.
-- Interactive UI with responsive design.
-- Easy to extend with new games and features.
-
-### [self](https://github.com/DiegoFCJ/self)
-This project focuses on personal use tools, providing a platform for users to track their goals and progress. It emphasizes self-improvement and productivity through a clean and intuitive interface which aims to give to the user a solid base where he can add bots and tools as plugins.
-
-**Key Features:**
-- Goal tracking and progress visualization.
-- User-friendly dashboard for managing tasks.
-- Built with modern web technologies for optimal performance.
-
-### [E-commerce](https://github.com/DiegoFCJ/E-commerce/tree/main)
-An e-commerce platform that showcases various products and allows users to explore and manage their purchases.
+[![MicroGames](https://github-readme-stats.vercel.app/api/pin/?username=diegofcj&repo=MicroGames)](https://github.com/DiegoFCJ/MicroGames)
+[![E-commerce](https://github-readme-stats.vercel.app/api/pin/?username=diegofcj&repo=E-commerce)](https://github.com/DiegoFCJ/E-commerce)
+[![self](https://github-readme-stats.vercel.app/api/pin/?username=diegofcj&repo=self)](https://github.com/DiegoFCJ/self)
+[![ROW-AND-ORDER-FP-TNV](https://github-readme-stats.vercel.app/api/pin/?username=diegofcj&repo=ROW-AND-ORDER-FP-TNV)](https://github.com/DiegoFCJ/ROW-AND-ORDER-FP-TNV)
 
 ---
 # 📊 GitHub Stats:
