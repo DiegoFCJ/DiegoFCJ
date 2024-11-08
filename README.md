@@ -111,7 +111,7 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=DiegoFCJ&theme=aura&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=DiegoFCJ&theme=aura&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api?username=DiegoFCJ&show_icons=true&theme=aura&count_private=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegofcj&&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
