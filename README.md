@@ -2,6 +2,7 @@
 👨‍💻 I'm currently working on:<br>
 - Developing full-stack applications using Angular, Spring Boot, and containerization with Docker.<br>
 
+
 🤝 I'm looking to collaborate on:<br>
 - Open-source projects related to web development, either front-end or back-end frameworks.<br>
 - Innovative solutions involving AI or machine learning.<br>
